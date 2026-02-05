@@ -1,0 +1,16 @@
+/*
+MIT License
+Copyright (c) 2026 AlexanderWagnerDev
+https://opensource.org/licenses/MIT
+*/
+
+/* Basic Admin Dark Mode */
+body.wp-admin {
+    background: #121212 !important;
+    color: #e0e0e0 !important;
+}
+#wpadminbar { background: #181818 !important; }
+#adminmenu { background: #181818 !important; }
+#adminmenu a { color: #ccc !important; }
+.wrap, .postbox { background: #1e1e1e !important; color: #e0e0e0 !important; }
+input, textarea, select { background: #252525 !important; color: #fff !important; border-color: #444 !important; }

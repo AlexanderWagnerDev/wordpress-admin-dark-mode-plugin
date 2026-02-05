@@ -1,0 +1,41 @@
+# Copyright (C) 2026 AlexanderWagnerDev
+# This file is distributed under the GPLv2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Dark Mode 0.0.1\n"
+"Report-Msgid-Bugs-To: https://alexanderwagnerdev.com\n"
+"POT-Creation-Date: 2026-02-06 00:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: AlexanderWagnerDev <info@alexanderwagnerdev.com>\n"
+"Language-Team: AlexanderWagnerDev <info@alexanderwagnerdev.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Manual\n"
+"X-Domain: admin-dark-mode\n"
+
+#: admin-dark-mode.php
+msgid "Admin Dark Mode"
+msgstr ""
+
+#: admin-dark-mode.php
+msgid "Dark Mode"
+msgstr ""
+
+#: admin-dark-mode.php
+msgid "Settings"
+msgstr ""
+
+#: admin-dark-mode.php
+msgid "Enable Dark Mode"
+msgstr ""
+
+#: admin-dark-mode.php
+msgid "Enabled"
+msgstr ""
+
+#: admin-dark-mode.php
+msgid "Admin Dark Mode is enabled."
+msgstr ""
