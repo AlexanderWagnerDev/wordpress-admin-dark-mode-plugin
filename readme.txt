@@ -1,6 +1,5 @@
-=== Admin Dark Mode ===
+=== WP Admin Dark Mode ===
 Contributors: alexanderwagnerdev
-Donate link: https://alexanderwagnerdev.com/
 Tags: dark mode, admin, dashboard, ui, accessibility
 Requires at least: 6.0
 Tested up to: 6.9.1
@@ -20,7 +19,7 @@ Features:
 * Works across all admin pages
 
 == Installation ==
-1. Upload the plugin folder to `/wp-content/plugins/admin-dark-mode/` (or install via the Plugins screen).
+1. Upload the plugin folder to `/wp-content/plugins/wp-admin-dark-mode/` (or install via the Plugins screen).
 2. Activate the plugin through the “Plugins” screen in WordPress.
 3. Go to Settings → Dark Mode and enable it.
 
@@ -51,7 +50,7 @@ Funktionen:
 * Funktioniert auf allen Admin-Seiten
 
 === Installation ===
-1. Lade den Plugin-Ordner nach `/wp-content/plugins/admin-dark-mode/` hoch (oder installiere über „Plugins“).
+1. Lade den Plugin-Ordner nach `/wp-content/plugins/wp-admin-dark-mode/` hoch (oder installiere über „Plugins“).
 2. Aktiviere das Plugin in WordPress unter „Plugins“.
 3. Gehe zu Einstellungen → Dark Mode und aktiviere es.
 

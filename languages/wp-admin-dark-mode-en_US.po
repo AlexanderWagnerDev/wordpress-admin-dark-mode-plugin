@@ -1,0 +1,53 @@
+# Copyright (C) 2026 AlexanderWagnerDev
+# This file is distributed under the GPLv2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Admin Dark Mode 0.0.1\n"
+"Report-Msgid-Bugs-To: https://alexanderwagnerdev.com\n"
+"POT-Creation-Date: 2026-02-06 00:00+0100\n"
+"PO-Revision-Date: 2026-02-06 16:50+0100\n"
+"Last-Translator: AlexanderWagnerDev <info@alexanderwagnerdev.com>\n"
+"Language-Team: AlexanderWagnerDev <info@alexanderwagnerdev.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.8\n"
+"X-Domain: wp-admin-dark-mode\n"
+
+#: wp-admin-dark-mode.php
+msgid "WP Admin Dark Mode"
+msgstr "WP Admin Dark Mode"
+
+#: wp-admin-dark-mode.php
+msgid "Dark Mode"
+msgstr "Dark Mode"
+
+#: wp-admin-dark-mode.php
+msgid "Dark Mode Settings"
+msgstr "Dark Mode Settings"
+
+#: wp-admin-dark-mode.php
+msgid "Settings"
+msgstr "Settings"
+
+#: wp-admin-dark-mode.php
+msgid "Enable Dark Mode"
+msgstr "Enable Dark Mode"
+
+#: wp-admin-dark-mode.php
+msgid "Preview"
+msgstr "Preview"
+
+#: wp-admin-dark-mode.php
+msgid "Dark Mode is enabled"
+msgstr "Dark Mode is enabled"
+
+#: wp-admin-dark-mode.php
+msgid "Dark Mode is disabled"
+msgstr "Dark Mode is disabled"
+
+#: wp-admin-dark-mode.php
+msgid "Admin Dark Mode is enabled."
+msgstr "Admin Dark Mode is enabled."

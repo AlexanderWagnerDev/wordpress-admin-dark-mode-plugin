@@ -1,4 +1,4 @@
-# Admin Dark Mode
+# WP Admin Dark Mode
 
 Simple, lightweight Dark Mode toggle for the WordPress Admin Dashboard.
 
@@ -23,7 +23,7 @@ Admin Dark Mode adds a minimal on/off toggle for dark styling inside `wp-admin`.
 
 ## Installation
 
-1. Upload the plugin folder to `/wp-content/plugins/admin-dark-mode/` (or install via the Plugins screen).
+1. Upload the plugin folder to `/wp-content/plugins/wp-admin-dark-mode/` (or install via the Plugins screen).
 2. Activate the plugin through the “Plugins” screen in WordPress.
 3. Go to **Settings → Dark Mode** and enable it.
 

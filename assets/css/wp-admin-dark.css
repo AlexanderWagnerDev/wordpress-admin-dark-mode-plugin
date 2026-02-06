@@ -1,0 +1,164 @@
+/*
+WordPress Admin Dark Mode - Native Style
+Copyright (c) 2026 AlexanderWagnerDev
+MIT License
+*/
+
+/* WordPress Native Dark Colors */
+:root {
+  --wp-admin-bg-dark: #2c3338;
+  --wp-admin-card-dark: #2c3338;
+  --wp-admin-border-dark: #525b64;
+  --wp-admin-text-dark: #dcdcde;
+  --wp-admin-text-muted: #a7aaad;
+  --wp-admin-link-dark: #dcdcde;
+  --wp-admin-primary: #b9b9b9;
+  --wp-admin-success: #00a32a;
+  --wp-admin-warning: #d63638;
+  --wp-admin-button-color: #2271b1;
+}
+
+/* Basis */
+body.wp-admin {
+  background: var(--wp-admin-bg-dark) !important;
+  color: var(--wp-admin-text-dark) !important;
+}
+
+/* WP Sidebar */
+#adminmenu,
+#adminmenuback,
+#adminmenuwrap {
+  background: var(--wp-admin-bg-dark) !important;
+}
+
+/* WP Admin Bar */
+#wpadminbar {
+  background: var(--wp-admin-bg-dark) !important;
+}
+
+/* WP Content Cards */
+.wrap .add-new-h2, .wrap .add-new-h2:active, .wrap .page-title-action, .wrap .page-title-action:active {
+  background: none !important;
+  color: var(--wp-admin-button-color) !important;
+  border-color: var(--wp-admin-border-dark) !important;
+}
+.wrap, .postbox {
+  background: var(--wp-admin-card-dark) !important;
+  border-color: var(--wp-admin-border-dark) !important;
+}
+
+/* WP Buttons */
+.wp-core-ui .button, .wp-core-ui .button-primary, .wp-core-ui .button-secondary {
+  background: none !important;
+  color: var(--wp-admin-button-color) !important;
+  border-color: var(--wp-admin-border-dark) !important;
+}
+
+/* WP Forms */
+/*input,
+textarea,
+select {
+  background: #2c3338 !important;
+  color: var(--wp-admin-text-dark) !important;
+  border-color: var(--wp-admin-border-dark) !important;
+}*/
+
+/*
+.button-primary {
+  background: #f6f7f7 !important;
+  color: #2271b1 !important;
+  border-color: var(--wp-admin-primary) !important;
+}
+
+.button {
+  background: #646970 !important;
+  border-color: #646970 !important;
+  color: var(--wp-admin-bg-dark) !important;
+}*/
+
+/* WP Tables */
+.wp-list-table,
+.wp-list-table th,
+.wp-list-table td {
+  background: var(--wp-admin-card-dark) !important;
+  border-color: var(--wp-admin-border-dark) !important;
+  color: var(--wp-admin-text-dark) !important;
+}
+
+/* WP Notices */
+.notice {
+  background: var(--wp-admin-card-dark) !important;
+  border-left-color: var(--wp-admin-success) !important;
+  color: var(--wp-admin-text-dark) !important;
+}
+
+/* WP Links */
+a {
+  color: var(--wp-admin-link-dark) !important;
+}
+
+a:hover {
+  color: var(--wp-admin-primary) !important;
+}
+
+/* WP Headers */
+h1, h2, h3, h4 {
+  color: var(--wp-admin-text-dark) !important;
+}
+
+/* WP Meta Boxes */
+.postbox .hndle {
+  background: var(--wp-admin-bg-dark) !important;
+  color: var(--wp-admin-text-dark) !important;
+}
+
+/* Gutenberg */
+.editor-styles-wrapper {
+  background: var(--wp-admin-bg-dark) !important;
+  color: var(--wp-admin-text-dark) !important;
+}
+
+/* WP Screen Meta */
+#screen-meta {
+  background: var(--wp-admin-card-dark) !important;
+  border-color: var(--wp-admin-border-dark) !important;
+  color: var(--wp-admin-text-dark) !important;
+}
+
+/* WP #contextual-help-back */
+#contextual-help-back {
+  background: var(--wp-admin-card-dark) !important;
+  border-color: var(--wp-admin-border-dark) !important;
+  color: var(--wp-admin-text-dark) !important;
+}
+
+/* WP community-events */
+.community-events,
+.community-events li {
+  background: var(--wp-admin-card-dark) !important;
+  border-color: var(--wp-admin-border-dark) !important;
+  color: var(--wp-admin-text-dark) !important;
+}
+ 
+/* WP Dashboard */
+#dashboard_activity .no-activity p {
+  color: var(--wp-admin-text-muted) !important;
+}
+
+.comment-ays, .feature-filter, .popular-tags, .stuffbox, .widgets-holder-wrap, .wp-editor-container, p.popular-tags, table.widefat, table.widefat th, table.widefat td {
+  background: var(--wp-admin-card-dark) !important;
+  border-color: var(--wp-admin-border-dark) !important;
+  color: var(--wp-admin-text-dark) !important;
+}
+
+/* Settings Page */
+body.settings_page_wp-admin-dark-mode .wrap,
+body.settings_page_wp-admin-dark-mode .adm-card,
+body.settings_page_wp-admin-dark-mode .adm-field-row,
+body.settings_page_wp-admin-dark-mode .adm-field-title,
+body.settings_page_wp-admin-dark-mode th,
+body.settings_page_wp-admin-dark-mode label {
+  background: var(--wp-admin-card-dark) !important;
+  color: var(--wp-admin-text-dark) !important;
+  border-color: var(--wp-admin-border-dark) !important;
+}
