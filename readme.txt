@@ -10,10 +10,8 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Simple, lightweight Dark Mode toggle for the WordPress Admin Dashboard.
-Einfacher, schlanker Dark-Mode-Schalter für das WordPress Admin-Dashboard.
 
 == Description ==
-EN:
 Admin Dark Mode adds a minimal on/off toggle for dark styling inside wp-admin.
 
 Features:
@@ -21,42 +19,53 @@ Features:
 * Lightweight CSS only
 * Works across all admin pages
 
-DE:
-Admin Dark Mode fügt einen minimalistischen Ein/Aus-Schalter für ein dunkles Design in wp-admin hinzu.
-
-Features:
-* Ein-Klick aktivieren/deaktivieren
-* Nur leichtgewichtiges CSS
-* Funktioniert auf allen Admin-Seiten
-
 == Installation ==
-EN:
 1. Upload the plugin folder to `/wp-content/plugins/admin-dark-mode/` (or install via the Plugins screen).
 2. Activate the plugin through the “Plugins” screen in WordPress.
 3. Go to Settings → Dark Mode and enable it.
 
-DE:
+== Frequently Asked Questions ==
+= Does this affect the frontend? =
+No. It only loads CSS in wp-admin.
+
+= Where is the toggle? =
+Settings → Dark Mode.
+
+== Changelog ==
+= 0.0.1 =
+* Initial development release.
+
+== Upgrade Notice ==
+= 0.0.1 =
+First release.
+
+== Deutsch ==
+Einfacher, schlanker Dark-Mode-Schalter für das WordPress Admin-Dashboard.
+
+=== Beschreibung ===
+Admin Dark Mode fügt einen minimalistischen Ein/Aus-Schalter für ein dunkles Design in wp-admin hinzu.
+
+Funktionen:
+* Ein-Klick aktivieren/deaktivieren
+* Nur leichtgewichtiges CSS
+* Funktioniert auf allen Admin-Seiten
+
+=== Installation ===
 1. Lade den Plugin-Ordner nach `/wp-content/plugins/admin-dark-mode/` hoch (oder installiere über „Plugins“).
 2. Aktiviere das Plugin in WordPress unter „Plugins“.
 3. Gehe zu Einstellungen → Dark Mode und aktiviere es.
 
-== Frequently Asked Questions ==
-= Does this affect the frontend? / Betrifft das das Frontend? =
-EN: No. It only loads CSS in wp-admin.
-DE: Nein. Es lädt nur CSS im wp-admin.
+=== FAQ ===
+= Betrifft das das Frontend? =
+Nein. Es lädt nur CSS im wp-admin.
 
-= Where is the toggle? / Wo ist der Schalter? =
-EN: Settings → Dark Mode.
-DE: Einstellungen → Dark Mode.
+= Wo ist der Schalter? =
+Einstellungen → Dark Mode.
 
-== Screenshots ==
-1. Settings page with the Dark Mode toggle enabled. / Einstellungsseite mit aktiviertem Dark Mode.
-2. Example admin screen in dark mode. / Beispiel-Admin-Seite im Dark Mode.
-
-== Changelog ==
+=== Changelog ===
 = 0.0.1 =
-* Initial development release. / Erste Development-Version.
+* Erste Development-Version.
 
-== Upgrade Notice ==
+=== Upgrade-Hinweis ===
 = 0.0.1 =
-First release. / Erste Version.
+Erste Version.
