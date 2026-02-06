@@ -21,8 +21,21 @@ msgid "Admin Dark Mode"
 msgstr ""
 
 #: admin-dark-mode.php
+msgid "Dark Mode"
+msgstr ""
+
+#: admin-dark-mode.php
+msgid "Settings"
+msgstr ""
+
+#: admin-dark-mode.php
 msgid "Enable Dark Mode"
 msgstr ""
 
+#: admin-dark-mode.php
+msgid "Enabled"
+msgstr ""
+
+#: admin-dark-mode.php
 msgid "Admin Dark Mode is enabled."
 msgstr ""

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Admin Dark Mode 0.0.1\n"
 "Report-Msgid-Bugs-To: https://alexanderwagnerdev.com\n"
 "POT-Creation-Date: 2026-02-06 00:00+0100\n"
-"PO-Revision-Date: 2026-02-06 00:47+0100\n"
+"PO-Revision-Date: 2026-02-06 01:02+0100\n"
 "Last-Translator: \n"
 "Language-Team: AlexanderWagnerDev <info@alexanderwagnerdev.com>\n"
 "Language: en\n"
@@ -21,8 +21,21 @@ msgid "Admin Dark Mode"
 msgstr "Admin Dark Mode"
 
 #: admin-dark-mode.php
+msgid "Dark Mode"
+msgstr "Dark Mode"
+
+#: admin-dark-mode.php
+msgid "Settings"
+msgstr "Settings"
+
+#: admin-dark-mode.php
 msgid "Enable Dark Mode"
 msgstr "Enable Dark Mode"
 
+#: admin-dark-mode.php
+msgid "Enabled"
+msgstr "Enabled"
+
+#: admin-dark-mode.php
 msgid "Admin Dark Mode is enabled."
 msgstr "Admin Dark Mode is enabled."
